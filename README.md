@@ -34,12 +34,17 @@ Solution of Task-4 of Kaiburr Assessment
 
 ## create an object
 
+### Go to the "Add new user button"
+
 ![Create an object](https://user-images.githubusercontent.com/122474267/227779337-ca78d78e-b844-4184-bda9-c3eb3cbd408c.png)
 ![Create an object 1](https://user-images.githubusercontent.com/122474267/227779372-c13755e4-5b69-48cf-a4ef-14f40c876950.png)
 ![image](https://user-images.githubusercontent.com/122474267/227779398-f8f095a2-00ba-4248-83d9-476661220449.png)
 
 
 ## delete an object 
+
+### To delete an object use the remove button 
+
 ![Delete an object](https://user-images.githubusercontent.com/122474267/227779619-36112ad9-a1ec-46eb-8e59-e5869cbe3235.png)
 ![Delete an object1](https://user-images.githubusercontent.com/122474267/227779661-604c8cb5-5a66-4d8e-af11-7e7a7947c94b.png)
 ![MongoDB Delete](https://user-images.githubusercontent.com/122474267/227779734-05405c70-28a9-4c55-b714-72a33c719945.png)

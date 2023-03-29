@@ -4,19 +4,19 @@ Solution of Task-4 of Kaiburr Assessment
 ### A simple web Application is made using SpringBoot for Backend , ReactJs as Frontend and MongoDB is used as Database.
 
 ## Requirements:
-#### 1.NodeJs 
-#### 2 Java JDK
-#### 3.Visual Studio or any other ide to run frontEnd and IntelliJ or Ecllipse for Backend
-#### 4. MongoDB compass / application can be connected to Atlas but for that we need to provide username and password in the properties files.
+1. NodeJs 
+2. Java JDK
+3. Visual Studio or any other ide to run frontEnd and IntelliJ or Ecllipse for Backend
+4. MongoDB compass / application can be connected to Atlas but for that we need to provide username and password in the properties files.
 
 ### Download the files Containing FrontEnd code and Backend Code.
-### Run command : "npm install" on the front end side to install all the required packages for the application to run.
+#### Run command : "npm install" on the front end side to install all the required packages for the application to run.
 
 
 ### Steps to use the Application;
-#### 1. Run the front end code using command : "npm start"
-#### 2  Run the backend code : src > main > java > com.godsplan > springbootMongodbApplication and start.
-#### 3 move to http://localhost:3000
+1. Run the front end code using command : "npm start"
+2.  Run the backend code : src > main > java > com.godsplan > springbootMongodbApplication and start.
+3. move to http://localhost:3000
 
 ![Backend Running](https://user-images.githubusercontent.com/122474267/227775812-dee46c14-c39e-43c3-9b4e-fb532bcc9db5.png)
 ![FrontEnd Running](https://user-images.githubusercontent.com/122474267/227776945-f7cb1286-77c7-4f9e-8118-09ca10795686.png)
